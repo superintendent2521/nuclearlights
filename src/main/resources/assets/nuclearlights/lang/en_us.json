@@ -1,0 +1,13 @@
+{
+  "itemGroup.nuclearlights": "Example Mod Tab",
+  "block.nuclearlights.example_block": "Example Block",
+  "item.nuclearlights.example_item": "Example Item",
+
+  "nuclearlights.configuration.title": "Nuclear Lights Configs",
+  "nuclearlights.configuration.section.nuclearlights.common.toml": "Nuclear Lights Configs",
+  "nuclearlights.configuration.section.nuclearlights.common.toml.title": "Nuclear Lights Configs",
+  "nuclearlights.configuration.items": "Item List",
+  "nuclearlights.configuration.logDirtBlock": "Log Dirt Block",
+  "nuclearlights.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nuclearlights.configuration.magicNumber": "Magic Number"
+}
